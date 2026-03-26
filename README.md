@@ -36,6 +36,9 @@ Tras años de experiencia en soporte técnico, he decidido volcar todo mi rigor 
 ![Axure RP](https://img.shields.io/badge/Axure_RP-9932CC?style=for-the-badge&logo=axure&logoColor=white)
 ![Justinmind](https://img.shields.io/badge/Justinmind-00AEEF?style=for-the-badge&logo=justinmind&logoColor=white)
 
+### 🔍 UX Research & Arquitectura de Información
+![Optimal Workshop](https://img.shields.io/badge/Optimal%20Workshop-FF6058?style=for-the-badge&logo=optimal-workshop&logoColor=white)
+
 ### 🎨 Diseño & Audiovisual
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
