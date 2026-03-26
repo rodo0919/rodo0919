@@ -34,7 +34,6 @@ Tras años de experiencia en soporte técnico, he decidido volcar todo mi rigor 
 ### 📐 UX/UI Design & Prototipado Pro
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Axure RP](https://img.shields.io/badge/Axure_RP-9932CC?style=for-the-badge&logo=axure&logoColor=white)
-![Justinmind](/* No hay logo oficial en simple-icons, usamos un badge estilizado */)
 ![Justinmind](https://img.shields.io/badge/Justinmind-00AEEF?style=for-the-badge&logo=justinmind&logoColor=white)
 
 ### 🎨 Diseño & Audiovisual
