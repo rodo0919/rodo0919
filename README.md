@@ -47,7 +47,7 @@ Tras años de experiencia en soporte técnico, he decidido volcar todo mi rigor 
 
 ## 📈 Proyectos Destacados (High Performance)
 
-### 🍰 [Dulce Tentación Zaragoza](https://dulcetentacionzaragoza.vercel.app/)
+### 🍰 [Dulce Tentación Cafetería](https://dulcetentacionzaragoza.vercel.app/)
 Plataforma de repostería artesanal enfocada en la experiencia de usuario y sostenibilidad.
 - **Métricas:** 99 Performance | 100 SEO (Google PageSpeed).
 - **Impacto:** Grado A en EcoIndex (Sostenibilidad digital).
